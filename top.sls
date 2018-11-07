@@ -1,5 +1,5 @@
 base:
   'minion1':
     - nginx
-  'minion2:
+  'minion2':
     - apache
